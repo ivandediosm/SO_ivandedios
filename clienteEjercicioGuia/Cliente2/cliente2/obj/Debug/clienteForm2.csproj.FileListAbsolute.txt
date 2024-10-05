@@ -1,0 +1,11 @@
+C:\share\Entrega4.1\clienteEjercicioGuia\Cliente2\cliente2\bin\Debug\cliente2.exe.config
+C:\share\Entrega4.1\clienteEjercicioGuia\Cliente2\cliente2\bin\Debug\cliente2.exe
+C:\share\Entrega4.1\clienteEjercicioGuia\Cliente2\cliente2\bin\Debug\cliente2.pdb
+C:\share\Entrega4.1\clienteEjercicioGuia\Cliente2\cliente2\obj\Debug\clienteForm2.csproj.AssemblyReference.cache
+C:\share\Entrega4.1\clienteEjercicioGuia\Cliente2\cliente2\obj\Debug\cliente2.Cliente2Form1.resources
+C:\share\Entrega4.1\clienteEjercicioGuia\Cliente2\cliente2\obj\Debug\cliente2.Cliente2Form2.resources
+C:\share\Entrega4.1\clienteEjercicioGuia\Cliente2\cliente2\obj\Debug\cliente2.Properties.Resources.resources
+C:\share\Entrega4.1\clienteEjercicioGuia\Cliente2\cliente2\obj\Debug\clienteForm2.csproj.GenerateResource.cache
+C:\share\Entrega4.1\clienteEjercicioGuia\Cliente2\cliente2\obj\Debug\clienteForm2.csproj.CoreCompileInputs.cache
+C:\share\Entrega4.1\clienteEjercicioGuia\Cliente2\cliente2\obj\Debug\cliente2.exe
+C:\share\Entrega4.1\clienteEjercicioGuia\Cliente2\cliente2\obj\Debug\cliente2.pdb
